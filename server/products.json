@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "name": "Cheeseburger",
+      "price": "18.3",
+      "image": "https://i.ibb.co/YXXnBWx/cheeseburger.png",
+      "id": "1"
+    },
+    {
+      "name": "Don Bacon",
+      "price": "24.1",
+      "image": "https://i.ibb.co/j60hwXH/Don-Bacon.png",
+      "id": "2"
+    },
+    {
+      "name": "Carne",
+      "price": "26.3",
+      "image": "https://i.ibb.co/NN1Rf7x/Carne.png",
+      "id": "3"
+    },
+    {
+      "name": "Julienne",
+      "price": "12.5",
+      "image": "https://i.ibb.co/7YNV8zy/Julienne.png",
+      "id": "4"
+    },
+    {
+      "name": "5 cheeze",
+      "price": "14.35",
+      "image": "https://i.ibb.co/Xj1v4S5/5-cheese.png",
+      "id": "5"
+    },
+    {
+      "name": "Cipollo",
+      "price": "10",
+      "image": "https://i.ibb.co/BwSWkWB/cipollo.png",
+      "id": "6"
+    }
+  ],
+  "users": [
+    {
+      "username": "sreelekha",
+      "email": "sree@abc.com",
+      "password": "Re@ct1",
+      "mobile": "9876543210",
+      "id": 1
+    },
+    {
+      "username": "lekha",
+      "email": "lekha@abc.com",
+      "password": "Lekh@1",
+      "mobile": "1234567890",
+      "id": 2
+    }
+  ]
+}
